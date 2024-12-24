@@ -1,0 +1,8 @@
+C:\Users\User_309\Documents\GitHub\NeverToLate\Сomplainer\bin\Debug\Сomplainer.exe.config
+C:\Users\User_309\Documents\GitHub\NeverToLate\Сomplainer\bin\Debug\Сomplainer.exe
+C:\Users\User_309\Documents\GitHub\NeverToLate\Сomplainer\bin\Debug\Сomplainer.pdb
+C:\Users\User_309\Documents\GitHub\NeverToLate\Сomplainer\obj\Debug\Сomplainer.csproj.AssemblyReference.cache
+C:\Users\User_309\Documents\GitHub\NeverToLate\Сomplainer\obj\Debug\Сomplainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_309\Documents\GitHub\NeverToLate\Сomplainer\obj\Debug\Сomplainer.csproj.CoreCompileInputs.cache
+C:\Users\User_309\Documents\GitHub\NeverToLate\Сomplainer\obj\Debug\Сomplainer.exe
+C:\Users\User_309\Documents\GitHub\NeverToLate\Сomplainer\obj\Debug\Сomplainer.pdb
