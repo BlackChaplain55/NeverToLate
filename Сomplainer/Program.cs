@@ -10,6 +10,7 @@ namespace Сomplainer
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Complainer main service is running...");
             Console.WriteLine("Press ENTER key to exit...");
             Console.ReadLine();
